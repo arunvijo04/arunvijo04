@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Srichand Suresh</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=silkscreen&size=18&duration=1000&color=2AF7DB&background=FFFFFF00&center=true&multiline=true&repeat=false&width=1050&height=80&lines=I'm+a+passionate+student+with+a+keen+interest+in+data+;science.+I'm+constantly+seeking+new+challenges+and+;opportunities+to+expand+my+skills+in+the+tech+industry." alt="Typing SVG" /></a>
+<h1 align="center">Hi 👋, I'm Arun Vijo</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=silkscreen&size=18&duration=1000&color=2AF7DB&background=FFFFFF00&center=true&multiline=true&repeat=false&width=1050&height=80&lines=I'm+a+passionate+student+with+a+keen+interest+in+cybersecurity+I'm+constantly+seeking+new+challenges+and+;opportunities+to+expand+my+skills+in+the+tech+industry." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apollo-blaze&label=Profile%20views&color=0e75b6&style=flat" alt="apollo-blaze" /> </p>
 
